@@ -1,4 +1,4 @@
-# PharmCare
+# PharmaCare
 ## Product Features and Screen Shots
 
 
